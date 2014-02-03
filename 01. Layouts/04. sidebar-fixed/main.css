@@ -4,3 +4,30 @@
 	font-family: 'Open Sans', sans-serif;
 	padding
 }
+
+nav {
+padding-top: 20px;
+float: left;
+width: 130px;
+border-top: 1px solid grey;
+}
+
+nav ul {
+list-style-type: none;
+padding-right: 30px;
+padding-left: 10px;
+}
+
+.content {
+float: right;
+width: 669px;
+padding-left: 40px;
+border-left: 1px solid grey;
+border-top: 1px solid grey;
+}
+
+footer {
+border-top: 1px dotted grey;
+float:bottom;
+position:fixed;
+}
