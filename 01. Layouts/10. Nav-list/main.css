@@ -11,6 +11,12 @@ nav{
 	top: 120px;
 }
 
+.nav-list {
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-bottom: 0;
+}
+
 .content{
 	float: right;
 	width: 750px;
