@@ -1,4 +1,4 @@
 web-basics
 ==========
 
-Web-basics challenges
+There are a lot of Web-basics challenges
